@@ -42,7 +42,7 @@ private void simpleButton1_Click(object sender, EventArgs e) {
 * [Appearances and Skins - DevExpress WinForms Cheat Sheet﻿](https://supportcenter.devexpress.com/ticket/details/t904174/appearances-and-skins-winforms-cheat-sheet)
 * [Troubleshooting - Skins and Skin Editor﻿](https://supportcenter.devexpress.com/ticket/details/t928562/devexpress-winforms-troubleshooting-skins-and-skin-editor)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-customize-cell-color&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-customize-cell-color&~~~was_helpful=no)
 
